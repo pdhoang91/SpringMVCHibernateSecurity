@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [17/Nov/2017:16:36:41 +0700] "GET /SpringMVCHibernateSecurity HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/Nov/2017:16:36:43 +0700] "GET /SpringMVCHibernateSecurity/ HTTP/1.1" 500 50760 http-bio-8080-exec-6 2154
